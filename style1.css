@@ -360,3 +360,7 @@ div.second {
 .he h4:hover {
     color: rgb(10, 233, 10);
 }
+
+.second::-webkit-scrollbar {
+    display: none;
+}
